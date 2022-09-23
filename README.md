@@ -26,4 +26,20 @@ Set of practice questions for assembly language (8086) solved by me
 ![image](https://user-images.githubusercontent.com/86561124/192035823-21bd9402-b836-4f33-a5cc-a731f985b3ca.png)
 ![image](https://user-images.githubusercontent.com/86561124/192035881-17f40212-f5b5-4d64-90c7-38d4e22742b8.png)
 
+## Keep first number bigger 
+
+![image](https://user-images.githubusercontent.com/86561124/192036186-3e615357-3058-4b2a-bfec-85067c5eef4b.png)
+![image](https://user-images.githubusercontent.com/86561124/192036225-473d7cef-5261-48e5-a934-39b21b2695a6.png)
+
+## GCD using Euclid Algorithm 
+
+![image](https://user-images.githubusercontent.com/86561124/192036344-5c5a518f-f725-48a6-a33a-e525879a8c73.png)
+![image](https://user-images.githubusercontent.com/86561124/192036450-31662e82-dbbf-40a1-a57b-bca3be034f47.png)
+
+## Binary Search Algorithm 
+
+![image](https://user-images.githubusercontent.com/86561124/192036620-30852dc7-d4aa-4b11-aa9d-96bc78eeb69d.png)
+![image](https://user-images.githubusercontent.com/86561124/192036676-b0507b00-2401-41f2-b978-2ba4e79093f6.png)
+![image](https://user-images.githubusercontent.com/86561124/192036722-e3ac95e5-6e05-437b-98c2-1bef599d8067.png)
+
 
