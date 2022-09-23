@@ -1,5 +1,15 @@
 # Assembly-coding-questions-
 Set of practice questions for assembly language (8086) solved by me 
+* AP Generator 
+* GP Generator 
+* Fibonacci Series 
+* Factorial Series
+* Reverse an array 
+* Keep first number bigger 
+* GCD using Euclid Algorithm 
+* Binary Search Algorithm 
+
+Emulator I used - https://yjdoc2.github.io/8086-emulator-web/
 
 ## AP generator 
 
