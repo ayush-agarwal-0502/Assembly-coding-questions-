@@ -8,6 +8,9 @@ Set of practice questions for assembly language (8086) solved by me
 * Keep first number bigger 
 * GCD using Euclid Algorithm 
 * Binary Search Algorithm 
+* Bubble sort 
+* Linked List sum 
+* Traffic Light Controller 
 
 Emulator I used - https://yjdoc2.github.io/8086-emulator-web/
 
@@ -51,5 +54,21 @@ Emulator I used - https://yjdoc2.github.io/8086-emulator-web/
 ![image](https://user-images.githubusercontent.com/86561124/192036620-30852dc7-d4aa-4b11-aa9d-96bc78eeb69d.png)
 ![image](https://user-images.githubusercontent.com/86561124/192036676-b0507b00-2401-41f2-b978-2ba4e79093f6.png)
 ![image](https://user-images.githubusercontent.com/86561124/192036722-e3ac95e5-6e05-437b-98c2-1bef599d8067.png)
+
+## Bubble Sort 
+
+![image](https://user-images.githubusercontent.com/86561124/192096611-549e0427-e29d-4233-a629-81fdeebcacd7.png)
+![image](https://user-images.githubusercontent.com/86561124/192096620-89373d48-a1e3-4111-9f8e-eb4a00fe9b1b.png)
+
+
+## Linked List Sum 
+
+![image](https://user-images.githubusercontent.com/86561124/192096646-01af97a0-3d1c-4846-9ae3-9415aef2271c.png)
+![image](https://user-images.githubusercontent.com/86561124/192096669-0bafe20f-ad00-4432-b7c2-6fea394f696d.png)
+
+## Traffic Light Controller 
+
+![image](https://user-images.githubusercontent.com/86561124/192096687-b0e911b3-ede3-49e0-9466-a1e223be42aa.png)
+![image](https://user-images.githubusercontent.com/86561124/192096734-1f181f17-7680-46ee-a2b8-b87e1042b4b4.png)
 
 
